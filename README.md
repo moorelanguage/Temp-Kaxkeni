@@ -2,7 +2,6 @@
 This is just a small "Tëmp Kaxkëni" interpreter written in Python.
 The name literally means "Brain break it". 
 This is basically just brainfuck but with Lenape words instead of symbols.
-There is no spaces, like in the original Brainfuck
 This is version: 1.0.0 of Tëmp Kaxkëni
 
 ```
