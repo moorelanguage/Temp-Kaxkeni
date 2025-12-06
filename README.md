@@ -28,5 +28,5 @@ Usage:
 run the python file with your .lenape after it.
 
 ## Other
-made with [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-made in [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](#)
+made with [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)      
+made in [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](#)       
