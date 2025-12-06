@@ -1,8 +1,7 @@
 ## Introduction
-This is just a small "Tëmp Kaxkëni" interpreter written in Python.
-The name literally means "Brain break it". 
-This is basically just brainfuck but with Lenape words instead of symbols.
-This is version: 1.0.0 of Tëmp Kaxkëni
+This is just a small "Tëmp Kaxkëni" interpreter written in Python.   
+The name literally means "Brain break it".     
+This is basically just brainfuck but with Lenape words instead of symbols.   
 
 ```
 > becomes mayai
