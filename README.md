@@ -15,17 +15,17 @@ This is version: 1.0.0 of Tëmp Kaxkëni
 [ becomes hè	
 ] becomes xùch
 ```
-hè is hello 
-xùch is a future marker
-lamunkwe means inside
-kòchëmink means outdoors
-òk means "and" but can be used in addition
-chitën means [minus](https://talk-lenape.org/results?query=chit%C3%ABn&lang=lenape)
-mayai means on the right
-amemànchi means ["on the left; left-handedly"](https://talk-lenape.org/detail?id=414)
+hè is hello    
+xùch is a future marker     
+lamunkwe means inside     
+kòchëmink means outdoors          
+òk means "and" but can be used in addition            
+chitën means [minus](https://talk-lenape.org/results?query=chit%C3%ABn&lang=lenape)                 
+mayai means on the right                
+amemànchi means ["on the left; left-handedly"](https://talk-lenape.org/detail?id=414)                 
 
-Usage:
-run the python file with your .lenape after it.
+Usage:           
+run the python file with your .lenape after it.        
 
 ## Other
 made with [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)      
