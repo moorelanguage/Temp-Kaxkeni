@@ -34,3 +34,4 @@ fourthcrow.lenape prints the [fourth crow prophecy](https://archive.ph/8bpE1) fr
 ## Other
 made with [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)      
 made in [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](#)       
+[About Me](https://moorelanguage.github.io/moorelanguage/)   
