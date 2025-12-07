@@ -27,9 +27,9 @@ run the python file with your .lenape after it.
 
 ## Example folder
 
-helloworld.lenape prints a python hello world program
-myemail.lenape prints my email that's on my README, my portfolio email.
-fourthcrow.lenape prints the [fourth crow prophecy](https://archive.ph/8bpE1) from the Lenape Nation of PA onto the command line.
+helloworld.lenape prints a python hello world program    
+myemail.lenape prints my email that's on my README, my portfolio email.     
+fourthcrow.lenape prints the [fourth crow prophecy](https://archive.ph/8bpE1) from the Lenape Nation of PA onto the command line.     
 
 ## Other
 made with [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)      
