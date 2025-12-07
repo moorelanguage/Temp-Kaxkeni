@@ -25,7 +25,11 @@ amemànchi means ["on the left; left-handedly"](https://talk-lenape.org/detail?i
 Usage:           
 run the python file with your .lenape after it.        
 
-an example program is here: [hello_world.lenape](https://github.com/moorelanguage/moorelanguage/blob/main/hello_world.lenape) it outputs a python hello world program. 
+## Example folder
+
+helloworld.lenape prints a python hello world program
+myemail.lenape prints my email that's on my README, my portfolio email.
+fourthcrow.lenape prints the [fourth crow prophecy](https://archive.ph/8bpE1) from the Lenape Nation of PA onto the command line.
 
 ## Other
 made with [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)      
